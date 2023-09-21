@@ -36,8 +36,8 @@ yarn start
 
 ### Tablet: Portrait
 
-<img src="https://github.com/zahoruiko/React-Native-Adaptive-Template-2/blob/main/promoImages/Tablet-Portrait.png" width="240">
+<img src="https://github.com/zahoruiko/React-Native-Adaptive-Template-2/blob/main/promoImages/Tablet-Portrait.png" width="480">
 
 ### Tablet: Landscape
 
-<img src="https://github.com/zahoruiko/React-Native-Adaptive-Template-2/blob/main/promoImages/Tablet-Landscape.png" width="480">
+<img src="https://github.com/zahoruiko/React-Native-Adaptive-Template-2/blob/main/promoImages/Tablet-Landscape.png" width="960">
