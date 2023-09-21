@@ -24,3 +24,7 @@ npm start
 # OR using Yarn
 yarn start
 ```
+## Results
+
+![Smartphone Portrait](https://github.com/zahoruiko/React-Native-Adaptive-Template-2/blob/main/promoImages/Smartphone-Portrait.png)
+![Smartphone Landscape](https://github.com/zahoruiko/React-Native-Adaptive-Template-2/blob/main/promoImages/Smartphone-Landscape.png)
