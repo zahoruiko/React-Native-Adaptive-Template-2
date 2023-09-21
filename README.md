@@ -11,7 +11,7 @@ Used libraries: React Native Navigation, React Native Screens, React Native Pape
 
 ```npm install```
 
-## Assets installation (custom text font):
+## Install assets (custom text font):
 
 ```npx react-native-asset```
 
