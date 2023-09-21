@@ -26,7 +26,7 @@ yarn start
 ```
 ## Results
 
-<img src="https://github.com/zahoruiko/React-Native-Adaptive-Template-2/blob/main/promoImages/Smartphone-Landscape.png" width="48">
+<img src="https://github.com/zahoruiko/React-Native-Adaptive-Template-2/blob/main/promoImages/Smartphone-Landscape.png" width="480">
 ![Smartphone Portrait](https://github.com/zahoruiko/React-Native-Adaptive-Template-2/blob/main/promoImages/Smartphone-Portrait.png)
 ![Smartphone Landscape](https://github.com/zahoruiko/React-Native-Adaptive-Template-2/blob/main/promoImages/Smartphone-Landscape.png)
 ![Tablet Portrait](https://github.com/zahoruiko/React-Native-Adaptive-Template-2/blob/main/promoImages/Tablet-Portrait.png)
