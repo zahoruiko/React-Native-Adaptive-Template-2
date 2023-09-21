@@ -26,8 +26,18 @@ yarn start
 ```
 ## Results
 
+### Smartphone: Portrait 
+
+<img src="https://github.com/zahoruiko/React-Native-Adaptive-Template-2/blob/main/promoImages/Smartphone-Portrait.png" width="240">
+
+### Smartphone: Landscape
+
 <img src="https://github.com/zahoruiko/React-Native-Adaptive-Template-2/blob/main/promoImages/Smartphone-Landscape.png" width="480">
-![Smartphone Portrait](https://github.com/zahoruiko/React-Native-Adaptive-Template-2/blob/main/promoImages/Smartphone-Portrait.png)
-![Smartphone Landscape](https://github.com/zahoruiko/React-Native-Adaptive-Template-2/blob/main/promoImages/Smartphone-Landscape.png)
-![Tablet Portrait](https://github.com/zahoruiko/React-Native-Adaptive-Template-2/blob/main/promoImages/Tablet-Portrait.png)
-![Tablet Landscape](https://github.com/zahoruiko/React-Native-Adaptive-Template-2/blob/main/promoImages/Tablet-Landscape.png)
+
+### Tablet: Portrait
+
+<img src="https://github.com/zahoruiko/React-Native-Adaptive-Template-2/blob/main/promoImages/Tablet-Portrait.png" width="240">
+
+### Tablet: Landscape
+
+<img src="https://github.com/zahoruiko/React-Native-Adaptive-Template-2/blob/main/promoImages/Tablet-Landscape.png" width="480">
