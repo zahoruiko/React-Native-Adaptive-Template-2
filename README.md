@@ -1,6 +1,6 @@
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
-# An example of implementing adaptive display of information on different types of devices (tablets and smartphones) in portrait and landscape orientation.
+# Example of implementing adaptive display of information on different types of devices (tablets and smartphones) in portrait and landscape orientation.
 
 An example of implementing adaptive information display on smartphones and tablets in portrait and landscape orientation modes.   
 Used libraries: React Native Navigation, React Native Screens, React Native Paper and others.
@@ -34,10 +34,10 @@ yarn start
 ## Results
 
 
-### Smartphone video: 
+### Smartphone: 
 
 <img src="https://github.com/zahoruiko/React-Native-Adaptive-Template-2/blob/main/promoImages/video-phone-adaptive-layout.gif" width="240">
 
-### Tablet video:
+### Tablet:
 
 <img src="https://github.com/zahoruiko/React-Native-Adaptive-Template-2/blob/main/promoImages/video-tablet-adaptive-layout.gif" width="360">
