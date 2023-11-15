@@ -9,8 +9,6 @@ const UsersList = ({
   itemId,
   setItemId,
   isLandscape,
-  route,
-  navigation,
 }) => {
   const handleOnItemPress = id => {
     setItemId(id);

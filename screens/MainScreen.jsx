@@ -11,7 +11,7 @@ import data from '../assets/data/data.json';
 import UserDetail from '../components/UserDetail';
 import UsersList from '../components/UsersList';
 
-const MainScreen = ({ route, navigation }) => {
+const MainScreen = () => {
   const [isLandscape, setIsLandscape] = useState(false);
   const [itemId, setItemId] = useState(1);
   const usersData = data.users;
@@ -31,7 +31,6 @@ const MainScreen = ({ route, navigation }) => {
         data={usersData}
         itemId={itemId}
         setItemId={setItemId}
-        navigation={navigation}
         isLandscape={isLandscape}
       />
     );
