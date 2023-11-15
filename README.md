@@ -33,18 +33,11 @@ yarn start
 ```
 ## Results
 
-### Smartphone: Portrait 
 
-<img src="https://github.com/zahoruiko/React-Native-Adaptive-Template-2/blob/main/promoImages/Smartphone-Portrait.png" width="240">
+### Smartphone video: 
 
-### Smartphone: Landscape
+<img src="https://github.com/zahoruiko/React-Native-Adaptive-Template-2/blob/main/promoImages/video-phone-adaptive-layout.gif" width="240">
 
-<img src="https://github.com/zahoruiko/React-Native-Adaptive-Template-2/blob/main/promoImages/Smartphone-Landscape.png" width="480">
+### Tablet video:
 
-### Tablet: Portrait
-
-<img src="https://github.com/zahoruiko/React-Native-Adaptive-Template-2/blob/main/promoImages/Tablet-Portrait.png" width="480">
-
-### Tablet: Landscape
-
-<img src="https://github.com/zahoruiko/React-Native-Adaptive-Template-2/blob/main/promoImages/Tablet-Landscape.png" width="960">
+<img src="https://github.com/zahoruiko/React-Native-Adaptive-Template-2/blob/main/promoImages/video-tablet-adaptive-layout.gif" width="360">

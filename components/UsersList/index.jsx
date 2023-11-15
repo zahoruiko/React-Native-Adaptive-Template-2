@@ -1,8 +1,8 @@
-import React, { useState } from 'react';
+import React from 'react';
 import { FlatList } from 'react-native';
 import { UsersListItem } from '../UsersListItem';
-import styles from './styles';
 import { isTablet } from '../../utils/Device';
+import styles from './styles';
 
 const UsersList = ({
   data,
@@ -14,11 +14,6 @@ const UsersList = ({
 }) => {
   const handleOnItemPress = id => {
     setItemId(id);
-    // if (!isTablet() || (isTablet() && !isLandscape)) {
-    //   navigation.navigate('DetailsScreen', {
-    //     itemId: itemId,
-    //   });
-    // }
   };
 
   const renderItem = ({ item }) => {
