@@ -1,4 +1,5 @@
 import React, {
+  RefObject,
   useEffect,
   useRef,
 } from 'react';
@@ -16,7 +17,12 @@ import stylesPhoneLandscape from './stylesPhoneLandscape';
 import stylesTablet from './stylesTablet';
 import stylesTabletPortrait from './stylesTabletPortrait';
 
-const UserDetail = ({ contact, isLandscape }) => {
+type TUserDetailProps = {
+  contact: any;
+  isLandscape: boolean;
+}
+
+const UserDetail: React.FC<TUserDetailProps> = ({ contact, isLandscape }) => {
   const styles =
     isTablet() && isLandscape
       ? stylesTablet
@@ -26,7 +32,7 @@ const UserDetail = ({ contact, isLandscape }) => {
       ? stylesPhoneLandscape
       : stylesPhone;
 
-  const scrollRef = useRef();
+  const scrollRef = useRef<ScrollView>(null);
   
   useEffect(() => {
     scrollRef.current?.scrollTo({

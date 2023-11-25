@@ -15,7 +15,7 @@ export const UsersListItem = ({
   isLandscape,
 }) => {
   let styles = !isTablet && !isLandscape ? stylesPhonePortrait : 
-                  !isTablet && isLandscape ? stylesPhoneLandscape : stylesCommon;
+               !isTablet && isLandscape ? stylesPhoneLandscape : stylesCommon;
 
   const listItemDetails = () => (
     <View style={[styles.info]}>
@@ -30,7 +30,7 @@ export const UsersListItem = ({
 
   let usersListItemDetails = listItemDetails();
   if (!isTablet && !isLandscape) {
-    usersListItemDetails = null;
+    usersListItemDetails = <></>;
   }
 
   return (
